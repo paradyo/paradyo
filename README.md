@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi, This is Emrecan! 👋
 
 - 🔭 I’m currently working on KalybeAI
 - 🌱 I’m currently learning React Native
