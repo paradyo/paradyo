@@ -2,10 +2,9 @@
 Welcome to my page!<br>
 I'm Emrecan, Software developer from <img src="https://www.flaticon.com/svg/static/icons/svg/3909/3909414.svg" width="14"/> **Turkey**.
 
-- 🔭 I’m currently working on KalybeAI
+- 🔭 I’m currently working on KalybeAI.
 - 🌱 I’m currently learning **React Native**.
 - 💬 Ask me anything via <a href="mailto:contact@emrecan.co">email</a>.
-- 🛡 I'm <a href="https://www.embarcadero.com/partners/mvp-directory" target="_blank">Embarcadero</a> **Delphi MVP**.
 - 💻 I love designing software architecture for own solutions.
 - ⚡ Fun fact: I'm a 💰 affiliate marketer 💰 <a href="https://www.paradyo.com">paradyo</a>.
 - 🖋 I write blog posts in English <a href="https://emrecan.co" target="_blank">here</a> about my projects.
