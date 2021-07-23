@@ -6,7 +6,7 @@ I'm Emrecan, Software developer from <img src="https://www.flaticon.com/svg/stat
 - 🌱 I’m currently learning **React Native**.
 - 💬 Ask me anything via <a href="mailto:contact@emrecan.co">email</a>.
 - 💻 I love designing software architecture for own solutions.
-- ⚡ Fun fact: I'm a 💰 affiliate marketer 💰 <a href="https://www.paradyo.com">paradyo</a>.
+- ⚡ Fun fact: I'm an 💰 affiliate marketer 💰 <a href="https://www.paradyo.com">paradyo</a>.
 - 🖋 I write blog posts in English <a href="https://emrecan.co" target="_blank">here</a> about my projects.
 
 <p>Passionate about creating new things, writing software for use by other humans, discovering new technologies, solutions and innovations. Trying to do the things that i can imagine.</p>
