@@ -3,7 +3,7 @@ Welcome to my page!<br>
 I'm Emrecan, Software developer from <img src="https://www.flaticon.com/svg/static/icons/svg/3909/3909414.svg" width="14"/> **Turkey**.
 
 - 🔭 I’m currently working on KalybeAI.
-- 🌱 I’m currently learning **React Native**.
+- 🌱 I’m currently learning **React Native** and **Wordpress Plugin Development**.
 - 💬 Ask me anything via <a href="mailto:contact@emrecan.co">email</a>.
 - 💻 I love designing software architecture for own solutions.
 - ⚡ Fun fact: I'm an 💰 affiliate marketer 💰 <a href="https://www.paradyo.com">paradyo</a>.
