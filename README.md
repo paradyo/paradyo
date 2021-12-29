@@ -1,6 +1,6 @@
 ### Hey! This is Emrecan! 👋
 Welcome to my page!<br>
-I'm Emrecan, Software developer from <img src="https://www.flaticon.com/svg/static/icons/svg/3909/3909414.svg" width="14"/> **Turkey**.
+I'm Emrecan, Software developer from <img src="https://cdn-icons-png.flaticon.com/512/555/555560.png" width="14"/> **Turkey**.
 
 - 🔭 I’m currently working on KalybeAI.
 - 🌱 I’m currently learning **React Native** and **Wordpress Plugin Development**.
