@@ -4,7 +4,7 @@ I'm Emrecan, Software developer from <img src="https://cdn-icons-png.flaticon.co
 
 - 🔭 I’m currently working on KalybeAI.
 - 🌱 I’m currently learning **React Native** and **Wordpress Plugin Development**.
-- 💬 Ask me anything via <a href="mailto:contact@emrecan.co">email</a>.
+- 💬 Ask me anything via <a href="mailto:emrecanozkan17@gmail.com">email</a>.
 - 💻 I love designing software architecture for own solutions.
 - ⚡ Fun fact: I'm an 💰 affiliate marketer 💰 <a href="https://www.paradyo.com">paradyo</a>.
 - 🖋 I write blog posts in English <a href="https://emrecan.co" target="_blank">here</a> about my projects.
