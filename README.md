@@ -2,12 +2,12 @@
 Welcome to my page!<br>
 I'm Emrecan, Software developer from <img src="https://cdn-icons-png.flaticon.com/512/555/555560.png" width="14"/> **Turkey**.
 
-- 🔭 I’m currently working on KalybeAI.
+- 🔭 I’m currently working on Vienot.
 - 🌱 I’m currently learning **React Native** and **Wordpress Plugin Development**.
 - 💬 Ask me anything via <a href="mailto:emrecanozkan17@gmail.com">email</a>.
 - 💻 I love designing software architecture for own solutions.
-- ⚡ Fun fact: I'm an 💰 affiliate marketer 💰 <a href="https://www.paradyo.com">paradyo</a>.
-- 🖋 I write blog posts in English <a href="https://emrecan.co" target="_blank">here</a> about my projects.
+- ⚡ Fun fact: I'm a 🍗 basketball player 🍗 since 2008.
+- 🖋 I write blog posts in English <a href="https://emrecan.co" target="_blank">here</a> about my projects (not active right now).
 
 <p>Passionate about creating new things, writing software for use by other humans, discovering new technologies, solutions and innovations. Trying to do the things that i can imagine.</p>
 
