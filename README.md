@@ -3,7 +3,7 @@ Welcome to my page!<br>
 I'm Emre, Software developer from <img src="https://cdn-icons-png.flaticon.com/512/555/555560.png" width="14"/> **Turkey**.
 
 - 🔭 I’m currently working at <a href="https://vienot.app/">Vienot</a>.
-- 🌱 I’m currently learning **React Native** and **Wordpress Plugin Development**.
+- 🌱 I’m currently learning **DevOps** and **Web3**.
 - 💬 Ask me anything via <a href="mailto:emrecanozkan17@gmail.com">email</a>.
 - 💻 I love designing software architecture for own solutions.
 - ⚡ Fun fact: I'm a 🍗 basketball player 🍗 since 2008.
