@@ -7,7 +7,6 @@ I'm Emre, Software developer from <img src="https://cdn-icons-png.flaticon.com/5
 - 💬 Ask me anything via <a href="mailto:emrecanozkan17@gmail.com">email</a>.
 - 💻 I love designing software architecture for own solutions.
 - ⚡ Fun fact: I'm a 🍗 basketball player 🍗 since 2008.
-- 🖋 I write blog posts in English <a href="https://emrecan.co" target="_blank">here</a> about my projects (not active right now).
 
 <p>Passionate about creating new things, writing software for use by other humans, discovering new technologies, solutions and innovations. Trying to do the things that i can imagine.</p>
 
