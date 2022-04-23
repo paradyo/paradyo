@@ -15,6 +15,5 @@ I'm Emre, Software developer from <img src="https://cdn-icons-png.flaticon.com/5
 
 <p>Now I am continuing my quest to explore new areas and pursuing new limits in informatics and getting to know my limitation.</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=paradyo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Emrecan's github stats](https://github-readme-stats.vercel.app/api?username=paradyo&count_private=true&hide=issues&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paradyo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Emrecan's github stats](https://github-readme-stats.vercel.app/api?username=paradyo&count_private=true&hide=issues&show_icons=true&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paradyo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
