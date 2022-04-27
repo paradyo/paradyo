@@ -2,7 +2,13 @@ Hi 👋 My name is Emre!
 ======================  
 I am a Software Engineer. 
 -------------------------  
-Passionate about creating new things, writing software for use by other humans, discovering new technologies, solutions and innovations. Trying to do the things that i can imagine. Gained experience in web app development sector for a long time before creating my dreams on mobile, coded so much front and back-end apps. In mobile development sector, worked accross all positions from creating ideas, designing user interfaces, creating software architectures and coding every one of them. Now I am continuing my quest to explore new areas and pursuing new limits in informatics and getting to know my limitation.  * 🌍  I'm based in <img src="https://cdn-icons-png.flaticon.com/512/555/555560.png" width="14"/> **Turkey** 
+Passionate about creating new things, writing software for use by other humans, discovering new technologies, solutions and innovations. Trying to do the things that i can imagine. 
+
+Gained experience in web app development sector for a long time before creating my dreams on mobile, coded so much front and back-end apps. In mobile development sector, worked accross all positions from creating ideas, designing user interfaces, creating software architectures and coding every one of them. 
+
+Now I am continuing my quest to explore new areas and pursuing new limits in informatics and getting to know my limitation.  
+
+* 🌍  I'm based in <img src="https://cdn-icons-png.flaticon.com/512/555/555560.png" width="14"/> **Turkey** 
 * 🖥️  See my portfolio at [My Website](http://emrecan.co) 
 * ✉️  You can contact me at [info@emrecan.co](mailto:info@emrecan.co) 
 * 🚀  I'm currently working on [Vienot](http://vienot.app) 
