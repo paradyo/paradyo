@@ -8,7 +8,7 @@ Gained experience in web app development sector for a long time before creating 
 
 Now I am continuing my quest to explore new areas and pursuing new limits in informatics and getting to know my limitation.  
 
-* 🌍  I'm based in <img src="https://cdn-icons-png.flaticon.com/512/555/555560.png" width="14"/> **Turkey** 
+* 🌍  I'm based in <img src="https://cdn-icons-png.flaticon.com/512/206/206626.png" width="14"/> **United States** 
 * 🖥️  See my portfolio at [My Website](http://emrecan.co) 
 * ✉️  You can contact me at [info@emrecan.co](mailto:info@emrecan.co) 
 * 🚀  I'm currently working on [Vienot](http://vienot.app) 
