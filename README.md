@@ -12,7 +12,7 @@ Now I am continuing my quest to explore new areas and pursuing new limits in inf
 * 🖥️  See my portfolio at [My Website](http://emrecan.co) 
 * ✉️  You can contact me at [info@emrecan.co](mailto:info@emrecan.co) 
 * 🚀  I'm currently working on my personal projects.
-* 🧠  I'm learning DevOps. 
+* 🧠  I'm learning Java. 
 * ⚡  I'm a 🏀 basketball player 🏀 since 2008.
 
 ### Skills
