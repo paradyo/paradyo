@@ -11,7 +11,7 @@ Now I am continuing my quest to explore new areas and pursuing new limits in inf
 * ✉️  You can contact me at [info@emrecan.co](mailto:info@emrecan.co) 
 * 🚀  I'm currently #OPENTOWORK in United States.
 * 🤯  I am creating solutions with engineer perspective since 2018.
-* 🔱  I'm a AWS Certified Developer - [My Credly]([mailto:info@emrecan.co](https://www.credly.com/badges/c255fbc4-5366-42a8-bf1c-61384c83a572/public_url)) 
+* 🔱  I'm a AWS Certified Developer - [My Credly](https://www.credly.com/badges/c255fbc4-5366-42a8-bf1c-61384c83a572/public_url)
 * ⚡  I'm a 🏀 basketball player 🏀 since 2008.
 
 ### What I've worked on professionally since 2018?
