@@ -1,4 +1,4 @@
-Hi 👋 My name is Emre! 
+Hi 👋 My name is Emrecan! 
 ======================  
 I am a Software Engineer. 
 -------------------------  
