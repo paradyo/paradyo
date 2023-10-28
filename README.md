@@ -9,7 +9,7 @@ Now I am continuing my quest to explore new areas and pursuing new limits in inf
 * 🌍  I'm based in <img src="https://cdn-icons-png.flaticon.com/512/206/206626.png" width="14"/> **United States** 
 * 🖥️  See my portfolio at [My Website](http://emrecan.co) 
 * ✉️  You can contact me at [info@emrecan.co](mailto:info@emrecan.co) 
-* 🚀  I'm currently #OPENTOWORK in United States.
+* 🚀  I'm currently developing financial tools and B2B products in United States.
 * 🤯  I am creating solutions with engineer perspective since 2018.
 * 🔱  I'm a AWS Certified Developer - [My Credly](https://www.credly.com/badges/c255fbc4-5366-42a8-bf1c-61384c83a572/public_url)
 * ⚡  I'm a 🏀 basketball player 🏀 since 2008.
